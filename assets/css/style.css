@@ -13,47 +13,50 @@ outline:none;
 border-style:none;
 transition: 0.5s
 }
-img:hover {
-	opacity: 0.5 ;
-}
 
-/*****main*****/
+main{}
 
-main .main{
+.main{
   text-align: center;
-  font-size:
+  font-size:20px
 }
 
-section .firstView{
-}
+section{}
 
-span .description{
+.firstView{}
+
+.description{
   position: absolute;
   top: 50%;
   left: 50%;
   display: block;
 }
 
-div .sns{
-display: flex;
-justify-content: center;
-margin-top: 160px;
+.sns{
+  display: flex;
+  justify-content: center;
+  margin-top: 160px;
+}
+.sns:hover{
+  opacity: 0.5 ;
 }
 
-img .sns__content{
+.sns__content{
   width: 36px;
   margin: 0 16px;
 }
 
-h1 .logo{
-}
+.logo{}
 
-/*****main*****/
-footer .footer{
+
+footer{}
+
+.footer{
   text-align: center;
   color: #EEEEEE;
 }
-div .copyright{
+
+.copyright{
   font-size: 12px
   padding: 40px
 }
