@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+font: 16px/1.6 "Hiragino Kaku Gothic Pro","メイリオ";
+margin:0;
+color:#EEEEEE;
+background: #5E90B3
+}
+
+img{
+outline:none;
+border-style:none;
+transition: 0.5s
+}
+img:hover {
+	opacity: 0.5 ;
+}
+
+/*****main*****/
+
+main .main{
+  text-align: center;
+  font-size:
+}
+
+section .firstView{
+}
+
+span .description{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: block;
+}
+
+div .sns{
+display: flex;
+justify-content: center;
+margin-top: 160px;
+}
+
+img .sns__content{
+  width: 36px;
+  margin: 0 16px;
+}
+
+h1 .logo{
+}
+
+/*****main*****/
+footer .footer{
+  text-align: center;
+  color: #EEEEEE;
+}
+div .copyright{
+  font-size: 12px
+  padding: 40px
+}
