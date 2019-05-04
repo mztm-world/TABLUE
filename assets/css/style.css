@@ -28,8 +28,10 @@ section{
 }
 
 .firstView{
-  position: relative
+  width: 200px
 }
+
+.logo{}
 
 .description{
   position: absolute;
@@ -51,8 +53,6 @@ section{
   width: 36px;
   margin: 0 16px
 }
-
-.logo{}
 
 
 footer{}
