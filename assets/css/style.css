@@ -23,6 +23,7 @@ main{}
 
 section{
   position: relative;
+  margin: 0 auto;
 }
 
 .firstView{
