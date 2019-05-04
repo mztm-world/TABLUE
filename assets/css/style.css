@@ -15,7 +15,10 @@ border-style:none;
 transition: 0.5s
 }
 
-main{}
+main{
+  position: relative;
+  margin: 0 auto;
+}
 
 .main{
   text-align: center;
@@ -59,7 +62,6 @@ footer{}
 
 .footer{
   text-align: center;
-  color: #EEEEEE
 }
 
 .copyright{
