@@ -4,6 +4,7 @@
 body{
 font: 16px/1.6 "Hiragino Kaku Gothic Pro","メイリオ";
 margin:0;
+padding: 0;
 color:#EEEEEE;
 background: #5E90B3
 }
@@ -27,28 +28,28 @@ section{
 }
 
 .firstView{
-  position: relative;
+  position: relative
 }
 
 .description{
   position: absolute;
   top: 50%;
   left: 50%;
-  display: block;
+  display: block
 }
 
 .sns{
   display: flex;
   justify-content: center;
-  margin-top: 160px;
+  margin-top: 160px
 }
 .sns:hover{
-  opacity: 0.5 ;
+  opacity: 0.5
 }
 
 .sns__content{
   width: 36px;
-  margin: 0 16px;
+  margin: 0 16px
 }
 
 .logo{}
@@ -58,10 +59,10 @@ footer{}
 
 .footer{
   text-align: center;
-  color: #EEEEEE;
+  color: #EEEEEE
 }
 
 .copyright{
-  font-size: 12px
+  font-size: 12px;
   padding: 40px
 }
