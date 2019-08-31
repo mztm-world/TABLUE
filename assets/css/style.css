@@ -2,23 +2,23 @@
 /* CSS Document */
 
 body{
-font: 16px/1.6 "Hiragino Kaku Gothic Pro","メイリオ";
-margin:0;
-padding: 0;
-color:#EEEEEE;
-background: #5E90B3;
-height: 100vh;
-posotion:relative;
+  font: 16px/1.6 "Hiragino Kaku Gothic Pro","メイリオ";
+  margin:0;
+  padding: 0;
+  color:#EEEEEE;
+  background: #5E90B3;
+  height: 100vh;
+  posotion:relative;
 }
 
 img{
-outline:none;
-border-style:none;
-transition: 0.5s
+  outline:none;
+  border-style:none;
+  transition: 0.5s
 }
 
 main{
-  position: relative;
+  /*position: relative;*/
   margin: 0 auto;
 }
 
@@ -26,10 +26,9 @@ main{
   font-size:20px
 }
 
-.firstView{
+/.firstView{
   /* position: absolute;
   margin: 150px auto */
-  padding-top: 150px;
 }
 
 
